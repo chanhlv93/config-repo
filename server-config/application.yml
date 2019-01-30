@@ -1,5 +1,5 @@
 # Config data exposed by config server
 
 info:
-  foo: tessst
+  foo: tes_dds_sst
   someList: [2, 3, 7]
