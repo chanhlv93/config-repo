@@ -3,3 +3,11 @@
 info:
   foo: tes_ddasdsadadas_sst
   someList: [2, 3, 7]
+
+security:
+  jwt:
+    uri: /auth/**
+    header: Authorization
+    prefix: Bearer 
+    expiration: 86400000
+    secret: E5JZpkzpIUKdOEywxQ2Y
