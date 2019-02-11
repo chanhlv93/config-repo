@@ -8,6 +8,6 @@ security:
   jwt:
     uri: /auth/**
     header: Authorization
-    prefix: Bearer 
+    prefix: Bearer
     expiration: 86400000
     secret: E5JZpkzpIUKdOEywxQ2Y
